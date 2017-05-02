@@ -4,4 +4,5 @@
     <string name="source_location">Your location</string>
     <string name="destination">Destination</string>
     <string name="total_shift_time">Total Shift Time</string>
+    <string name="permission_denied_message">This permission is required to run the application, please provide it otherwise you may face difficulty in using the application.</string>
 </resources>
