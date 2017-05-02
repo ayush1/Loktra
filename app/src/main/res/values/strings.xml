@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoktraProject</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="source_location">Your location</string>
+    <string name="destination">Destination</string>
+    <string name="total_shift_time">Total Shift Time</string>
+</resources>
